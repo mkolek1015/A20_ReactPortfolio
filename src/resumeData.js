@@ -4,10 +4,10 @@ let resumeData = {
     "role": "Graphic Designer and Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "",
     "socialLinks":[
         {
-          "name":"linkedin",
+          "name":"linkedinId",
           "url":"https://www.linkedin.com/in/mike-kolek-6159ab7/",
           "className":"fa fa-linkedin"
         },
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"twitter",
           "url":"https://twitter.com/mkolek7",
           "className":"fa fa-twitter"
         }
@@ -94,23 +94,23 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"DinnerMenu",
+        "imgurl":"images/portfolio/Dinner_Developers.jpg"
       },
       {
         "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"Skateboard Builder",
+        "imgurl":"images/portfolio/DeathWobble.jpg"
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "description":"Password Generator",  
+        "imgurl":"images/portfolio/PWGenerator.jpg"
       },
       {
         "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Weather Dashboard",
+        "imgurl":"images/portfolio/WeatherDashboard.jpg"
       }
     ],
     "testimonials":[
