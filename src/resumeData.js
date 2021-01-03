@@ -42,7 +42,7 @@ let resumeData = {
       },
       {
         "UniversityName":"W3Schools.com",
-        "specialization":"Web Developer onsite Education",
+        "specialization":"Web Developer Online Education",
         "MonthOfPassing":"On",
         "YearOfPassing":"Going",
         "Achievements":""
