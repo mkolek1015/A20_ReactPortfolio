@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class Porfolio extends Component {
+export default class Portfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -19,6 +19,7 @@ export default class Porfolio extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
+                          <p>{item.link}</p>
                         </div>
                       </div>
                     </a>

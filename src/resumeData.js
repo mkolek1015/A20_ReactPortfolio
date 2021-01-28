@@ -21,13 +21,13 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a Graphic Artist based out of Manchester, CT. I have spent the last 19 years working in the Graphic Design field whether as a designer, in layout & design, print (catalogs), production and fabrication (sign making, label printing, vehicle lettering). With the recent pandemic of 2020, I decided to take the opportunity to learn a new technology and have since completed a Certification in Full-Stack Web Development from the University of Connecticut & Trilogy, where I learned ideal practices behind the design of mobile and user-friendly websites and applications. I am actively looking for a job in Web-Development where I hope to combine with my Graphic Design experience and merge it into a new full-time career!",
+    "aboutme":"I am a Graphic Artist based out of Manchester, CT. I have spent the last 19 years working in the Graphic Design field as a designer, in layout & design, print (catalogs), production and fabrication (sign making, label printing, vehicle lettering). With the recent pandemic of 2020, I decided to take the opportunity to learn a new technology and have since completed a Certification in Full-Stack Web Development from the University of Connecticut & Trilogy, where I learned ideal practices behind the design of mobile and user-friendly websites and applications. I am actively looking for a job in Web-Development where I hope to combine my newly learned skils with my Graphic Design experience and merge it into a new full-time career!",
     "address":"Connecticut, USA",
     "website":"https://github.com/mkolek1015",
     "education":[
       {
-        "UniversityName":"UConn Web Development Bootcamp",
-        "specialization":"",
+        "UniversityName":"University of Connecticut Web Development Bootcamp",
+        "specialization":"Full Stack Web Development",
         "MonthOfPassing":"Jan",
         "YearOfPassing":"2021",
         "Achievements":"Certificate in Full-Stack Web Development"
@@ -92,14 +92,16 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Group Project 1",
         "description":"DinnerMenu",
-        "imgurl":"images/portfolio/Dinner_Developers.jpg"
+        "imgurl":"images/portfolio/Dinner_Developers.jpg",
+        // "link" : <a href="https://github.com/mkolek1015/Group-Project-1"> </a>
       },
       {
         "name":"project2",
         "description":"Skateboard Builder",
         "imgurl":"images/portfolio/DeathWobble.jpg"
+        
       },
       {
         "name":"project3",
