@@ -5,6 +5,7 @@ My portfolio reimagined using React.js!
 
 View a selection of projects I have done during a 24 week Bootcamp through UConn and Trilogy. Will continously updating portfolio with new works and projects.
 
+
 ## Table of Contents
 
 * [Deployed App](#deployed)
