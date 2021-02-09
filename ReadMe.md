@@ -3,7 +3,11 @@
 ## Description
 My portfolio reimagined using React.js! 
 
+<<<<<<< HEAD
 View a selection of projects I have done during a 24 week Bootcamp through UConn and Trilogy. Will continously updating portfolio with new works and projects.
+=======
+View a selection of projects I have done during a 24 week Bootcamp through UConn and Trilogy. Will be updating portfolio with new works and projects.
+>>>>>>> 59d4e1162cba1519d4bb6a4c1e3ab2f567546662
 
 
 ## Table of Contents
