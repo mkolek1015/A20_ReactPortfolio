@@ -92,26 +92,29 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Group Project 1",
+        "name":"Dinning with Developers",
         "description":"DinnerMenu",
         "imgurl":"images/portfolio/Dinner_Developers.jpg",
-        // "link" : <a href="https://github.com/mkolek1015/Group-Project-1"> </a>
+        // "link" : src="https://github.com/mkolek1015/Group-Project-1">
       },
       {
-        "name":"project2",
-        "description":"Skateboard Builder",
+        "name":"Multiple Choice Quiz",
+        "description":"Multiple Choice Quiz",
         "imgurl":"images/portfolio/DeathWobble.jpg"
+        // "link" : <a href="https://github.com/mkolek1015/Group-Project-1"> </a>
         
       },
       {
         "name":"project3",
         "description":"Password Generator",  
         "imgurl":"images/portfolio/PWGenerator.jpg"
+        // "link" : <a href="https://github.com/mkolek1015/Group-Project-1"> </a>
       },
       {
         "name":"project4",
         "description":"Weather Dashboard",
         "imgurl":"images/portfolio/WeatherDashboard.jpg"
+        // "link" : <a href="https://github.com/mkolek1015/Group-Project-1"> </a>
       }
     ],
     "testimonials":[

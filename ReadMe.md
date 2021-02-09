@@ -5,29 +5,57 @@ My portfolio reimagined using React.js!
 
 View projects I have done and get into contact wiht me! Also find the hidden link go another social meida platform if you like!
 
-### Intro Page
-![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/IntroPage.jpg)
+## Table of Contents
 
-### About Page
-![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/AboutMePage.jpg)
+* [Deployed App](#deployed)
+* [Installation](#installation)
+* [Navigation](#Navigation)
+* [Technology](#technology)
+* [License](#license)
 
-### Resume Page
-![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/ResumePage.jpg)
+### Navigation
+* [Intro](#intro)
+* [About](#about)
+* [Resume](#resume)
+* [Work | Skills](#work-|-skills)
+* [Contact](#contact)
 
-### Work | Skills Page
-![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/Skills_Works.jpg)
+### Intro
+![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/IntroPage.jpg) </br>
+[Back to Navigation](#Navigation)
 
-### Testimonials | Contact Page
-![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/Test_Contact.jpg)
+### About
+![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/AboutMePage.jpg) </br>
+[Back to Navigation](#Navigation)
+
+### Resume
+![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/ResumePage.jpg) </br>
+[Back to Navigation](#Navigation)
+
+### Work | Skills
+![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/Skills_Works.jpg) </br>
+[Back to Navigation](#Navigation)
+
+### Contact
+![Screen Shot](https://github.com/mkolek1015/A20_ReactPortfolio/blob/main/public/images/screenshots/Test_Contact.jpg) </br>
+[Back to Navigation](#Navigation)
 
 
-### Technologies Used
-React.JS
-JavaScript
-HTML
-CSS
+### Technology
 
-#### Links
-Deployed Application: https://secure-reef-07732.herokuapp.com/
+React.JS </br>
+JavaScript </br>
+HTML </br>
+CSS </br>
+[Table of Contents](#Table-of-Contents)
 
-GitHub Repo: https://github.com/mkolek1015/A20_ReactPortfolio
+#### Deployed
+
+Deployed Application: [webpage](https://secure-reef-07732.herokuapp.com) </br>
+
+GitHub Repo: [Github](https://github.com/mkolek1015/A20_ReactPortfolio) </br>
+[Back to Table of Contents](#Table-of-Contents)
+
+### License
+MIT
+  ![badge](https://img.shields.io/badge/license-MIT-red) 
