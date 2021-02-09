@@ -3,7 +3,7 @@
 ## Description
 My portfolio reimagined using React.js! 
 
-View projects I have done and get into contact wiht me! Also find the hidden link go another social meida platform if you like!
+View a selection of projects I have done during a 24 week Bootcamp through UConn and Trilogy. Will continously updating portfolio with new works and projects.
 
 ## Table of Contents
 
