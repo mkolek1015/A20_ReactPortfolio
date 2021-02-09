@@ -3,7 +3,7 @@
 ## Description
 My portfolio reimagined using React.js! 
 
-View projects I have done and get into contact with me! Also find the hidden link go another social meida platform if you like!
+View projects I have done and get into contact with me!
 
 ## Table of Contents
 
